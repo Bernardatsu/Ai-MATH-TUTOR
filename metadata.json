@@ -1,0 +1,7 @@
+{
+  "name": "AI Math Tutor",
+  "description": "An intelligent math tutoring assistant capable of teaching concepts, solving problems, and providing step-by-step explanations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
